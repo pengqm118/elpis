@@ -7,8 +7,8 @@
 </head>
 <body style="margin: 0;">
     <div id="root"></div>
-    <input id="env" value={ { env } } style="display: none;">
-    <input id="projKey" value={ { projKey } } style="display:none;" />
+    <input id="env" value={{ env }} style="display: none;">
+    <input id="projKey" value={{ projKey }} style="display:none;" />
 </body>
 <script>
 try {
